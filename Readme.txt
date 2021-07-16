@@ -1,0 +1,1 @@
+Ici les étapes à suivre pour deployer l'application mauhasbi
